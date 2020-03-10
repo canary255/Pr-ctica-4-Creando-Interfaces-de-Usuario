@@ -1,5 +1,5 @@
 # Practica_4_Creando-Interfaces-de-Usuario
-## Cámara y perspectiva - Ismael Aarab Umpiérrez
+## Cámara y Perspectiva - Ismael Aarab Umpiérrez
 
 ### Introducción
 - La práctica anterior aborda los elementos necesarios para aplicar transformaciones 2D y 3D a objetos, texto e imágenes. El primer paso en la representación gráfica de una escena es justamente la aplicación de transformaciones a los modelos de los objetos presentes en dicha escena. Una vez que los modelos han sido posicionados en el espacio tridimensional, procede localizar la o las cámaras, para finalmente proyectar los puntos al plano de proyección en dos dimensiones.
